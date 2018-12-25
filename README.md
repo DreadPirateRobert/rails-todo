@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails Simple todo App
 
-Things you may want to cover:
+1) run rails server
 
-* Ruby version
+![alt text](https://github.com/DreadPirateRobert/rails-todo/blob/master/readmepics/Screenshot%20from%202018-12-25%2019-34-09.png)
 
-* System dependencies
+![alt text](https://github.com/DreadPirateRobert/rails-todo/blob/master/readmepics/Screenshot%20from%202018-12-25%2019-34-27.png)
 
-* Configuration
+![alt text](https://github.com/DreadPirateRobert/rails-todo/blob/master/readmepics/Screenshot%20from%202018-12-25%2019-34-33.png)
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Tut followed from (https://medium.com/@deallen7/how-to-build-a-todo-app-in-rails-e6571fcccac3)
